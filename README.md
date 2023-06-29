@@ -62,9 +62,9 @@ Media LLaMA首先在大规模自媒体语料上进行连续预训练，系统地
 我们将一些关于抖音运营、短视频创作、巨量千川投放、直播运营等领域的问题输入ChatGPT，并让其生成对每个问题的回答。
 
 #### 开源数据概览
-| 文件名            | 规模    | 描述               |
-|----------------|-------|------------------|
-| data/tiktok_v1 | 3,000 | ChatGPT生成的抖音知识问答 |
+| 文件名                | 规模    | 描述               |
+|--------------------|-------|------------------|
+| [data/tiktok_v1](https://github.com/IMOSR/Media-LLaMA/tree/master/data/tiktok_v1) | 3,000 | ChatGPT生成的抖音知识问答 |
 
 
 #### 数据
@@ -114,7 +114,7 @@ Media LLaMA首先在大规模自媒体语料上进行连续预训练，系统地
 
 ## 训练和测试教程
 
-训练和测试教程请参考
+训练和测试教程请参考: [train/finetune_media_alpaca_lora.ipynb](https://github.com/IMOSR/Media-LLaMA/tree/master/finetune_media_alpaca_lora.ipynb)
 
 ## 讨论群
 
