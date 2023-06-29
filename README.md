@@ -116,6 +116,7 @@ Media LLaMA首先在大规模自媒体语料上进行连续预训练，系统地
 
 训练和测试教程请参考: [train/finetune_media_alpaca_lora.ipynb](https://github.com/IMOSR/Media-LLaMA/tree/master/finetune_media_alpaca_lora.ipynb)
 
+
 ## 讨论群
 
 * 1 如果二维码过去加群主微信：yydsa0007 备注：智媒大模型
