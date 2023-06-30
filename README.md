@@ -68,7 +68,7 @@ Media LLaMA首先在大规模自媒体语料上进行连续预训练，系统地
 
 
 #### 数据
-我们将都培训相关知识输入ChatGPT，让其生成对应的数据，代码地址: generate_data/generate_tiktok.py，样例如下：
+我们将自媒体运营、创作等相关知识输入ChatGPT，让其生成对应的数据，代码地址: generate_data/generate_tiktok.py，样例如下：
 
     Human:
 
@@ -119,7 +119,7 @@ Media LLaMA首先在大规模自媒体语料上进行连续预训练，系统地
 
 ## 讨论群
 
-* 1 如果二维码过去加群主微信：yydsa0007 备注：智媒大模型
+* 1 如果二维码过期加群主微信：yydsa0007 备注：智媒大模型
 * 2 扫码
 
 ![img_1.png](img_1.png)
