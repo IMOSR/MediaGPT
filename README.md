@@ -139,6 +139,10 @@ https://github.com/ymcui/Chinese-LLaMA-Alpaca
 
 本项目中的模型输出并非专业自媒体运营建议，可能会包含错误内容。如需自媒体运营援助，请向专业人士寻求帮助。
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IMOSR/Media-LLaMA&type=Date)](https://star-history.com/#IMOSR/Media-LLaMA&Date)
+
 ## 引用
 
 如果您使用了本项目的内容，或者认为本项目对您的研究有帮助，请引用本项目。
