@@ -122,7 +122,8 @@ MediaGPT（曾用名Media LLaMA）首先在大规模自媒体语料上进行连�
 
 * 1 如果二维码过期加群主微信：yydsa0007 备注：智媒大模型
 * 2 扫码
-  ![image](https://github.com/IMOSR/MediaGPT/assets/137986664/3bd23a1d-585c-4fce-a3da-0b8bf344f312)
+  <img width="250" alt="image" src="https://github.com/IMOSR/MediaGPT/assets/137986664/fcb7ccdf-463b-4b75-b259-a9b111120cdc">
+
 
 
 ## 致谢
